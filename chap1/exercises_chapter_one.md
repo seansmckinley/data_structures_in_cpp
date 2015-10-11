@@ -28,3 +28,26 @@ Practice
 	f. illegal indirection operator applied to integer. 
 	g. 5
 	h. 5
+
+1.5 
+	a. structure with integer and structure pointer data members.
+	b. object z of type S
+	c. pointer x to object of type S
+	d. vector of 10 S elements
+	e. vector of 10 pointer to S elements	
+	f. int
+	g. pointer
+	h. int
+	i. pointer
+	j. indirection must be applied to pointer, this expression is illegal
+	k. indirection must be applied to pointer, this expression is illegal
+	l. pointer - pointer is valid
+	m. illegal, vector has no member a
+	n. S object
+	o. int 
+	p. pointer
+	q. ptr to S object
+	r. S object
+	s. int
+	t. pointer
+	u. illegal, u has no eleventh element. 
