@@ -77,7 +77,7 @@ struct Node* sorted_merge(struct Node* a, struct Node* b){
     }    
     ptrToLast = &((*ptrToLast)->next);
   }
-  return(result);
+  return result;
 }
 
 // take node from front of src and add it to front of dest
